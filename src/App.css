@@ -828,3 +828,14 @@ h3 {
     transition: none !important;
   }
 }
+.contact-detail a {
+  display: inline-block;
+  margin-top: 6px;
+  color: #159e9a;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.contact-detail a:hover {
+  text-decoration: underline;
+}

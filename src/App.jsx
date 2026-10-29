@@ -245,7 +245,16 @@ function App() {
             </div>
             <div className="contact-detail">
               <MapPin size={19} />
-              <span><strong>HSR Layout, Bengaluru</strong><small>Example location for demo purposes</small></span>
+              <span><strong>HSR Layout, Bengaluru</strong><small>Example location for demo purposes</small>
+            <small><a
+  href="https://www.google.com/maps/search/?api=1&query=HSR+Layout+Bengaluru"
+  target="_blank"
+  rel="noreferrer"
+>
+  View on Google Maps ↗
+</a>
+</small>
+</span>
             </div>
             <div className="contact-detail">
               <Clock size={19} />
