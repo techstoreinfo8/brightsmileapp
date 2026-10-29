@@ -14,7 +14,7 @@ import {
   HeartPulse,
   CalendarDays,
 } from "lucide-react";
-import "./app.css";
+import "./App.css";
 
 const DEMO_PHONE = "917996602273"; // Replace with an authorized WhatsApp number
 
